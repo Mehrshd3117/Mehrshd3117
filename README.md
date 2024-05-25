@@ -33,7 +33,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Follow me around the web:</i><br>
 
  <a target="_blank" href="https://www.linkedin.com/in/mehrshad-qandali/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/mehr.q/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+
  
   
 
